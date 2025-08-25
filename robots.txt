@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://vectronautomation.github.io/vectron-sitemap/sitemap.xml
